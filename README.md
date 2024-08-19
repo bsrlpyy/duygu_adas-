@@ -1,11 +1,11 @@
-# Ters Yüz Duygu Adası Oynu(Film Oyunu) 😂 😞 😱
+# Ters Yüz Duygu Adası Oyunu (Film Oyunu) 😂 😞 😱
 
 Bu proje, klasik Taş, Kağıt, Makas oyununa benzeyen, ancak popüler animasyon 
 filmi "Ters Yüz" (Inside Out) karakterlerinden esinlenilen bir Python oyunudur. 
 Bu oyunda, taş, kağıt, makas yerine  Neşe, Korku ve Üzüntü gibi duygular kullanılır. 
 Filmden esinlenilerek, duyguların hatırlatıcı ve eğlenceli yanlarını ön plana çıkarmak,
 özellikle çocukların ilgisini çekmeyi amaçlıyor.Filmin insanlar üzerindeki etkisi göz önüne 
-alınarak çocuların ve yetişkinlerin filmi izleyip kendilerini ve duygularını anlamalarını amaçladım.
+alınarak çocuların ve yetişkinlerin filmi izleyip kendilerini ve duygularını anlamalarını desteklemeyi amaçladık.
 
 ## Açıklama🎀🖋️💛💙💜
 
