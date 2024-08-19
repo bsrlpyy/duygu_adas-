@@ -1,4 +1,4 @@
-# Ters Yüz Duygu Adası Oyunu (Film Oyunu) 😂 😞 😱
+# Ters Yüz Duygu Adası Oyunu (Animasyon Oyunu) 😂 😞 😱
 
 Bu proje, klasik Taş, Kağıt, Makas oyununa benzeyen, ancak popüler animasyon 
 filmi "Ters Yüz" (Inside Out) karakterlerinden esinlenilen bir Python oyunudur. 
