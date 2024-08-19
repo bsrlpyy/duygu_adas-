@@ -1,4 +1,4 @@
-# Ters YÜz Duygu Adası Oynu(Film Oyunu)
+# Ters YÜz Duygu Adası Oynu(Film Oyunu) 😂 😞 😱
 
 Bu proje, klasik Taş, Kağıt, Makas oyununa benzeyen, ancak popüler animasyon 
 filmi "Ters Yüz" (Inside Out) karakterlerinden esinlenilen bir Python oyunudur. 
@@ -7,21 +7,23 @@ Filmden esinlenilerek, duyguların hatırlatıcı ve eğlenceli yanlarını ön 
 özellikle çocukların ilgisini çekmeyi amaçlıyor.Fİlmin insanlar üzerindeki etkisi göz önüne 
 alınarak çocuların ve yetişkinlerin filmi izleyip kendilerini ve duygularını anlamalarını amaçladım.
 
-## Açıklama
+## Açıklama🎀🖋️💛💙💜
 
 Oyun, Python dilinde yazılmış bir komut satırı uygulamasıdır. 
 Oyuncu,  Neşe, Korku ve Üzüntü duygularından birini seçer ve bilgisayar da rastgele bir duygu seçer.
 Seçimlerin karşılaştırılmasıyla oyun sonucu belirlenir. 
 Bu benzersiz yaklaşım, duyguların oyunda nasıl etkileşimde bulunabileceğini gösterir ve 
 oyunculara tanıdık bir film üzerinden eğlenceli bir deneyim sunar. 
-## Gelecek Planları
+
+
+## Gelecek Planları 🚀🌟✨
 
 Eğer oyun beğenilir ve başarılı olursa, gelecekte diğer duyguları da eklemeyi planlıyoruz. 
 Ayrıca, oyunun görsel bir versiyonunu geliştirmeyi düşünüyoruz. Bu versiyonda, her duygunun ekran
 üzerinde renkli bir gösterimi olacak ve kazanılan duyguların ekranın belirli 
 bölgelerinde renkli olarak belirmesi sağlanacak.
 
-## Kurulum
+## Kurulum 👩‍💻🤍
 
 Bu projeyi çalıştırmak için Python 3.x yüklü olmalıdır. Gerekli paketleri yüklemek için:
 
@@ -30,25 +32,25 @@ pip install -r requirements.txt
 ```
 
 
-## Kullanım
+## Kullanım🙂🙂
 
 Oyunu başlatmak için terminalde aşağıdaki komutu çalıştırın:
 
 python oyun.py
 
-## Örnek Çıktı
+## Örnek Çıktı👆🏻😄
 
 Oyun başladı:
 
 Oyuncu: Neşe
 Bilgisayar: Üzüntü
-Sonuç: Oyuncu kazandı!
+Sonuç: Oyuncu kazandı!🥳
 
-## Katkıda Bulunma
+## Katkıda Bulunma 🍀😎
 
 Lütfen katkıda bulunmak için bir 'pull request' gönderin. Her türlü geri bildirim ve öneriye açığız!
 
-## Lisans
+## Lisans ⏳
 Bu proje şu anda lisansızdır. Projeyi kullanmadan önce lütfen izin alın.
 
 
