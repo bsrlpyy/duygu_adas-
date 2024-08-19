@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Oyunu başlatmak için terminalde aşağıdaki komutu çalıştırın:
 
-python oyun.py
+python duygu_adası.py
 
 ## Örnek Çıktı👆🏻😄
 
