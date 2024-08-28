@@ -23,14 +23,6 @@ Ayrıca, oyunun görsel bir versiyonunu geliştirmeyi düşünüyoruz. Bu versiy
 üzerinde renkli bir gösterimi olacak ve kazanılan duyguların ekranın belirli 
 bölgelerinde renkli olarak belirmesi sağlanacak.
 
-## Kurulum 👩‍💻🤍
-
-Bu projeyi çalıştırmak için Python 3.x yüklü olmalıdır. Gerekli paketleri yüklemek için:
-
-``` bash
-pip install -r requirements.txt
-```
-
 
 ## Kullanım🙂🙂
 
